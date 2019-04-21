@@ -1,0 +1,16 @@
+.columnHead {
+  text-align: center;
+  color: white;
+  height: 30px;
+  line-height: 1.8;
+}
+
+.column > button {
+  border: none;
+  background: none;
+  color: rgb(88, 85, 85);
+}
+
+.column > button:hover {
+  cursor: pointer;
+}

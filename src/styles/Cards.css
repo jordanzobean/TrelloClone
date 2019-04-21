@@ -1,0 +1,20 @@
+.card {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  background-color: white;
+  font-size: 0.5em;
+  text-align: center;
+}
+
+.card > button {
+  display: inline-block;
+  background: none;
+  border: none;
+  padding: 0px;
+}
+
+.card > button:hover {
+  cursor: pointer;
+}
